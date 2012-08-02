@@ -1,4 +1,5 @@
-=== WFS Visualizer ===
+WFS Visualizer
+=====
 
 WFS Visualizer is a Processing sketch/Java applet that simulates wave field synthesis. A virtual source follows the position of the mouse cursor. It's useful for visualizing the behavior and limitations of WFS.
 
